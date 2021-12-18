@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Politics of Opportunism",
+        "author":"R P N Singh"
+
+    },
+    {
+        "id":2,
+        "name":"Malayalam poetry",
+        "author":"Akkitham Achuthan Namboodri"
+
+    },
+    {
+        "id":3,
+        "name":"TheTestaments",
+        "author":"Margaret Atwood"
+
+    },
+    {
+        "id":4,
+        "name":"Celestial Bodies",
+        "author":"Jokha Alharthi"
+
+    },
+    {
+        "id":5,
+        "name":"Cheque book",
+        "author":"Vasdev Mohi"
+
+    },
+    {
+        "id":6,
+        "name":"The Overstory",
+        "author":"Richard Powers"
+
+    },
+    {
+        "id":7,
+        "name":"Obama: The Call of History",
+        "author":"Peter Baker"
+
+    }
+]
